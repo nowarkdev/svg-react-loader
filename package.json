@@ -1,5 +1,5 @@
 {
-    "name": "svg-react-loader",
+    "name": "svg-react-0.13-loader",
     "fullname": "SVG to React Loader",
     "description": "A Webpack Loader to turn SVGs into React Components",
     "version": "0.3.1",
@@ -34,8 +34,7 @@
     },
     "peerDependencies": {
         "babel-core":   "5.x",
-        "react":        ">=0.14",
-        "react-dom":    ">=0.14",
+        "react":        ">=0.13",
         "babel-loader": "5.x"
     },
     "scripts": {
